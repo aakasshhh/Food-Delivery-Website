@@ -32,7 +32,7 @@ The project utilizes HTML and CSS for the front-end design.
 ![Screenshot 2024-02-13 200412](https://github.com/aakasshhh/Food-App/assets/118706951/67dd541e-c3cd-4c69-8deb-69369df7a739)
 
 ### Contact Information: 
-For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-bb7336254/
+For any questions or feedback, feel free to reach out at Email: aakashjainonline18@gmail.com or linkedin: https://www.linkedin.com/in/aakash-jain-/
 
 ### Contribution Guidelines: 
 If you'd like to contribute to this project, please refer to the guidelines in the CONTRIBUTING.md file.
